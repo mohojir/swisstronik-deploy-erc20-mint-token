@@ -15,11 +15,11 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-erc20-mint-token.git
+git clone https://github.com/mohojir/swisstronik-deploy-erc20-mint-token.git
 ```
 
 ```
-cd swisstronik-erc20-mint-token
+cd swisstronik-deploy-erc20-mint-token
 ```
 
 ### 2. Install Dependency
